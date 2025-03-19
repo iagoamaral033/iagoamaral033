@@ -1,5 +1,5 @@
 ## Me siga nas redes sociais :point_down:
-[![Instagram](https://img.shields.io/badge/Instagram-400090?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iago-amaral01)
+[![Instagram](https://img.shields.io/badge/Instagram-400090?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iago_amaral01)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iago-amaral-2b868b1a4/)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IagoAmaral19)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198984280607/)
