@@ -9,7 +9,7 @@
   <img align="right" alt="itachi-uchiha" height="160" src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif">
   <p align="center">I'm a 24 years old developer from Brazil, i'm finished study at <a href="https://unipacto.com.br/">UNIPAC</a>.</p>
   <p align="center">I'm passionate about technology and I'm always looking for new challenges.</p>
-  <p align="center">I have experience in some languages like:</p>
+  <p align="center">I have experience in some languages, such as:</p>
   <div align="center">
       <img align="center" alt="React/React Native" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
