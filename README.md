@@ -7,7 +7,7 @@
 <h1 align="center" >Hi guys, I'm IAGO AMARAL 👋</h1>
 <div>
   <img align="right" alt="itachi-uchiha" height="160" src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif">
-  <p align="center">I'm a 24 years old developer from Brazil, i'm finished study at <a href="https://unipacto.com.br/">UNIPAC</a>.</p>
+  <p align="center">I'm a 25 years old developer from Brazil, i'm finished study at <a href="https://unipacto.com.br/">UNIPAC</a>.</p>
   <p align="center">I'm passionate about technology and I'm always looking for new challenges.</p>
   <p align="center">I have experience in some languages, such as:</p>
   <div align="center">
