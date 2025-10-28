@@ -56,4 +56,3 @@
 
 ---
 
-<p align="center">✨ Made with ❤️ by <b>Iago Amaral</b> ✨</p>
