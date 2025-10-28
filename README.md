@@ -1,32 +1,38 @@
-## Me siga nas redes sociais :point_down:
-[![Instagram](https://img.shields.io/badge/Instagram-400090?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iago_amaral01)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iago-amaral-2b868b1a4/)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IagoAmaral19)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198984280607/)
+<!-- 🌌 DARK NEON / CYBERPUNK GITHUB PROFILE -->
 
-<h1 align="center" >Hi guys, I'm IAGO AMARAL 👋</h1>
-<div>
-  <img align="right" alt="itachi-uchiha" height="160" src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif">
-  <p align="center">I'm a 25 years old developer from Brazil, i'm finished study at <a href="https://unipacto.com.br/">UNIPAC</a>.</p>
-  <p align="center">I'm passionate about technology and I'm always looking for new challenges.</p>
-  <p align="center">I have experience in some languages, such as:</p>
-  <div align="center">
-      <img align="center" alt="React/React Native" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-      <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg">
-    
-  </div>
-</div>
+<h1 align="center">
+  ⚡ <span style="color:#00FFFF;">IAGO AMARAL</span> ⚡<br>
+  <sub><span style="color:#FF00FF;">Developer • Tech Enthusiast • Dream Builder</span></sub>
+</h1>
 
-<br>
-<h2 align="left">My profile statistics:</h2>
-<div align="center">
- <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iagoamaral033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=280"/>
- <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iagoamaral033&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=280"/><br>
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif" alt="Goku Neon" height="200">
+</p>
+
+---
+
+### 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://instagram.com/iago_amaral01">
+    <img src="https://img.shields.io/badge/Instagram-%23FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/iago-amaral-2b868b1a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300FFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/IagoAmaral19">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198984280607/">
+    <img src="https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💫 **About Me**
+```diff
++ 👋 Hi, I'm Iago — a passionate developer from Brazil 🇧🇷
++ 🎓 Graduated in Systems Information at UNIPAC
++ 💻 I’m currently focused on Front-End & Full-Stack projects
++ 🚀 Exploring AI, cloud technologies and creative coding
++ 🎮 Fun fact: I love building side-projects and gaming on Steam
