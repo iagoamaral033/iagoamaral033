@@ -1,18 +1,16 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">Iago Amaral</span></h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">IAGO AMARAL</span></h1>
 
 <p align="center">
-  💻 <b>Software Developer | Tech Enthusiast | Lifelong Learner</b><br>
-  🌎 From Brazil 🇧🇷 | 🎓 Information Systems Graduate – <a href="https://unipacto.com.br/">UNIPAC</a><br>
-  🚀 Passionate about technology, innovation, and continuous learning
+  💻 <b>Developer | Tech Enthusiast | Lifelong Learner</b><br>
+  🌎 From Brazil | 🎓 Graduated in <a href="https://unipacto.com.br/">UNIPAC</a><br>
+  🚀 Passionate about technology, innovation, and continuous improvement!
 </p>
 
-<p align="center">
-  <img alt="Goku Animation" height="180" src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif">
-</p>
+<img align="right" alt="Goku Animation" height="180" src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif">
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with me:
 <p align="center">
   <a href="https://instagram.com/iago_amaral01">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
