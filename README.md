@@ -29,11 +29,11 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently improving my skills in **Front-End Development**
-- 🌱 Learning more about **TypeScript**, **React**, and **Node.js**
-- ⚡ Fun fact: I love creating personal projects to test new ideas
-- 💬 Always open to collaborating and exchanging knowledge!
-
+- 🔭 Currently honing my skills in Front-End and Back-End Development
+- 🌱 Studying and deepening my knowledge in C#, .NET, Vue.js, TypeScript, React, and Node.js
+- 💡 I enjoy developing practical projects to apply concepts and test new ideas
+- 🚀  Always seeking to evolve as a developer and learn new technologies
+- 🤝 Open to collaborating, sharing knowledge, and participating in new projects
 ---
 
 ### 🛠️ Tech Stack
