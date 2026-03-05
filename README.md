@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">IAGO AMARAL</span></h1>
+<h1 align="center">🧑‍💻 Hey there! I'm <span style="color:#6C63FF;">IAGO AMARAL</span></h1>
 
 <p align="center">
   💻 <b>Developer | Tech Enthusiast | Lifelong Learner</b><br>
