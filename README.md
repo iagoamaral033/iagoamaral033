@@ -6,7 +6,6 @@
   🚀 Passionate about technology, innovation, and continuous improvement!
 </p>
 
-<img align="right" alt="Goku Animation" height="180" src="https://media1.tenor.com/m/Lx9cYlI3mewAAAAC/lr-agl-goku-carnival.gif">
 
 ---
 
