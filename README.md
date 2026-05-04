@@ -38,7 +38,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,html,css,js,nodejs,dotnet,C#,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,react,html,css,js,dotnet,C#,vscode&theme=dark" />
 </p>
 
 ---
